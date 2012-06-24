@@ -1,3 +1,4 @@
+package de.pagansoft.videostore;
 
 public class Rental
 {

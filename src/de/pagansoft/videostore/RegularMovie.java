@@ -1,3 +1,5 @@
+package de.pagansoft.videostore;
+
 public class RegularMovie extends Movie {
   public RegularMovie(String title) {
     super(title);

@@ -1,3 +1,5 @@
+package de.pagansoft.videostore;
+
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,4 +1,4 @@
-
+package de.pagansoft.videostore;
 
 public abstract class Movie
 {

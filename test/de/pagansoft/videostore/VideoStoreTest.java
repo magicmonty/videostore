@@ -1,3 +1,5 @@
+package de.pagansoft.videostore;
+
 import junit.framework.TestCase;
 
 public class VideoStoreTest extends TestCase {
